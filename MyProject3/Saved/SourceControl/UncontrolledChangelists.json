@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Pc/Documents/GitHub/Panic-at-the-Pits/MyProject3/Content/niveles/menu_nivel.umap",
+				"C:/Users/Pc/Documents/GitHub/Panic-at-the-Pits/MyProject3/Content/menu/UW_MenuPrincipal.uasset",
+				"C:/Users/Pc/Documents/GitHub/Panic-at-the-Pits/MyProject3/Content/menu/UW_MenuOpciones.uasset",
+				"C:/Users/Pc/Documents/GitHub/Panic-at-the-Pits/MyProject3/Content/menu/GI_juego.uasset"
+			]
+		}
+	]
+}
