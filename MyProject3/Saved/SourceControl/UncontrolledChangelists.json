@@ -8,7 +8,11 @@
 				"C:/Users/Pc/Documents/GitHub/Panic-at-the-Pits/MyProject3/Content/niveles/menu_nivel.umap",
 				"C:/Users/Pc/Documents/GitHub/Panic-at-the-Pits/MyProject3/Content/menu/UW_MenuPrincipal.uasset",
 				"C:/Users/Pc/Documents/GitHub/Panic-at-the-Pits/MyProject3/Content/menu/UW_MenuOpciones.uasset",
-				"C:/Users/Pc/Documents/GitHub/Panic-at-the-Pits/MyProject3/Content/menu/GI_juego.uasset"
+				"C:/Users/Pc/Documents/GitHub/Panic-at-the-Pits/MyProject3/Content/menu/GI_juego.uasset",
+				"C:/Users/Pc/Documents/GitHub/Panic-at-the-Pits/MyProject3/Content/menu/UW_MenuPausa.uasset",
+				"C:/Users/Pc/Documents/GitHub/Panic-at-the-Pits/MyProject3/Content/Input/Actions/IA_pausa.uasset",
+				"C:/Users/Pc/Documents/GitHub/Panic-at-the-Pits/MyProject3/Content/Input/IMC_Default.uasset",
+				"C:/Users/Pc/Documents/GitHub/Panic-at-the-Pits/MyProject3/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset"
 			]
 		}
 	]
