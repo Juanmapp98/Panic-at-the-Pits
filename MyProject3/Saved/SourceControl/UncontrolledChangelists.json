@@ -12,7 +12,15 @@
 				"C:/Users/Pc/Documents/GitHub/Panic-at-the-Pits/MyProject3/Content/menu/UW_MenuPausa.uasset",
 				"C:/Users/Pc/Documents/GitHub/Panic-at-the-Pits/MyProject3/Content/Input/Actions/IA_pausa.uasset",
 				"C:/Users/Pc/Documents/GitHub/Panic-at-the-Pits/MyProject3/Content/Input/IMC_Default.uasset",
-				"C:/Users/Pc/Documents/GitHub/Panic-at-the-Pits/MyProject3/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset"
+				"C:/Users/Pc/Documents/GitHub/Panic-at-the-Pits/MyProject3/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/Pc/Documents/GitHub/Panic-at-the-Pits/MyProject3/Content/Audio/SFX/Pistola_Hidraulica_-_Juego.uasset",
+				"C:/Users/Pc/Documents/GitHub/Panic-at-the-Pits/MyProject3/Content/Audio/SFX/Ruido_de_fondo__autos_.uasset",
+				"C:/Users/Pc/Documents/GitHub/Panic-at-the-Pits/MyProject3/Content/Audio/SFX/Tornillo_cayendo_-_Juego.uasset",
+				"C:/Users/Pc/Documents/GitHub/Panic-at-the-Pits/MyProject3/Content/Audio/Musica/Life_is_on_a_Highway_-_BGM.uasset",
+				"C:/Users/Pc/Documents/GitHub/Panic-at-the-Pits/MyProject3/Content/Audio/MasterSoundClassMix.uasset",
+				"C:/Users/Pc/Documents/GitHub/Panic-at-the-Pits/MyProject3/Content/GuardarJuego/guardarConfiguraciones.uasset",
+				"C:/Users/Pc/Documents/GitHub/Panic-at-the-Pits/MyProject3/Content/Audio/Musica/MasterMusicClass.uasset",
+				"C:/Users/Pc/Documents/GitHub/Panic-at-the-Pits/MyProject3/Content/Audio/SFX/MasterSFXSoundClass.uasset"
 			]
 		}
 	]
