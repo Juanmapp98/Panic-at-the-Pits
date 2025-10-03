@@ -9907,3 +9907,6 @@ Make sure '/Game/Jugador/BP_PlayerController.BP_PlayerController_C' has been com
 [2025.10.03-19.38.31:262][481]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.10.03-19.38.31:262][481]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.10.03-19.38.31:264][481]AssetCheck: /Game/menu/UW_MenuOpciones Validating asset
+[2025.10.03-19.40.14:869][ 23]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 19465.880859
+[2025.10.03-19.40.15:869][ 26]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.03-19.40.15:869][ 26]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 19466.546875, Update Interval: 357.780701
