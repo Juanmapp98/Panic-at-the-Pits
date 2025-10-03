@@ -20,7 +20,17 @@
 				"C:/Users/Pc/Documents/GitHub/Panic-at-the-Pits/MyProject3/Content/Audio/MasterSoundClassMix.uasset",
 				"C:/Users/Pc/Documents/GitHub/Panic-at-the-Pits/MyProject3/Content/GuardarJuego/guardarConfiguraciones.uasset",
 				"C:/Users/Pc/Documents/GitHub/Panic-at-the-Pits/MyProject3/Content/Audio/Musica/MasterMusicClass.uasset",
-				"C:/Users/Pc/Documents/GitHub/Panic-at-the-Pits/MyProject3/Content/Audio/SFX/MasterSFXSoundClass.uasset"
+				"C:/Users/Pc/Documents/GitHub/Panic-at-the-Pits/MyProject3/Content/Audio/SFX/MasterSFXSoundClass.uasset",
+				"C:/Users/Pc/Documents/GitHub/Panic-at-the-Pits/MyProject3/Content/menu/UW_MenuDerrotaFaltaDeTiempo.uasset",
+				"C:/Users/Pc/Documents/GitHub/Panic-at-the-Pits/MyProject3/Content/Jugador/BP_GameMode.uasset",
+				"C:/Users/Pc/Documents/GitHub/Panic-at-the-Pits/MyProject3/Content/Jugador/BP_Jugador.uasset",
+				"C:/Users/Pc/Documents/GitHub/Panic-at-the-Pits/MyProject3/Content/Maps/L_Pista.umap",
+				"C:/Users/Pc/Documents/GitHub/Panic-at-the-Pits/MyProject3/Content/menu/UW_MenuDerrota.uasset",
+				"C:/Users/Pc/Documents/GitHub/Panic-at-the-Pits/MyProject3/Content/menu/UW_MenuVictoria.uasset",
+				"C:/Users/Pc/Documents/GitHub/Panic-at-the-Pits/MyProject3/Content/Jugador/Input/IMC_Jugador.uasset",
+				"C:/Users/Pc/Documents/GitHub/Panic-at-the-Pits/MyProject3/Content/Jugador/BP_PlayerController.uasset",
+				"C:/Users/Pc/Documents/GitHub/Panic-at-the-Pits/MyProject3/Content/Blueprints/BP_Wheel_Default.uasset",
+				"C:/Users/Pc/Documents/GitHub/Panic-at-the-Pits/MyProject3/Content/menu/daitonaaaaaaaa1.uasset"
 			]
 		}
 	]
