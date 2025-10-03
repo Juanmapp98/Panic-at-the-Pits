@@ -1,0 +1,37 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Pc/Documents/GitHub/Panic-at-the-Pits/MyProject3/Content/niveles/menu_nivel.umap",
+				"C:/Users/Pc/Documents/GitHub/Panic-at-the-Pits/MyProject3/Content/menu/UW_MenuPrincipal.uasset",
+				"C:/Users/Pc/Documents/GitHub/Panic-at-the-Pits/MyProject3/Content/menu/UW_MenuOpciones.uasset",
+				"C:/Users/Pc/Documents/GitHub/Panic-at-the-Pits/MyProject3/Content/menu/GI_juego.uasset",
+				"C:/Users/Pc/Documents/GitHub/Panic-at-the-Pits/MyProject3/Content/menu/UW_MenuPausa.uasset",
+				"C:/Users/Pc/Documents/GitHub/Panic-at-the-Pits/MyProject3/Content/Input/Actions/IA_pausa.uasset",
+				"C:/Users/Pc/Documents/GitHub/Panic-at-the-Pits/MyProject3/Content/Input/IMC_Default.uasset",
+				"C:/Users/Pc/Documents/GitHub/Panic-at-the-Pits/MyProject3/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/Pc/Documents/GitHub/Panic-at-the-Pits/MyProject3/Content/Audio/SFX/Pistola_Hidraulica_-_Juego.uasset",
+				"C:/Users/Pc/Documents/GitHub/Panic-at-the-Pits/MyProject3/Content/Audio/SFX/Ruido_de_fondo__autos_.uasset",
+				"C:/Users/Pc/Documents/GitHub/Panic-at-the-Pits/MyProject3/Content/Audio/SFX/Tornillo_cayendo_-_Juego.uasset",
+				"C:/Users/Pc/Documents/GitHub/Panic-at-the-Pits/MyProject3/Content/Audio/Musica/Life_is_on_a_Highway_-_BGM.uasset",
+				"C:/Users/Pc/Documents/GitHub/Panic-at-the-Pits/MyProject3/Content/Audio/MasterSoundClassMix.uasset",
+				"C:/Users/Pc/Documents/GitHub/Panic-at-the-Pits/MyProject3/Content/GuardarJuego/guardarConfiguraciones.uasset",
+				"C:/Users/Pc/Documents/GitHub/Panic-at-the-Pits/MyProject3/Content/Audio/Musica/MasterMusicClass.uasset",
+				"C:/Users/Pc/Documents/GitHub/Panic-at-the-Pits/MyProject3/Content/Audio/SFX/MasterSFXSoundClass.uasset",
+				"C:/Users/Pc/Documents/GitHub/Panic-at-the-Pits/MyProject3/Content/menu/UW_MenuDerrotaFaltaDeTiempo.uasset",
+				"C:/Users/Pc/Documents/GitHub/Panic-at-the-Pits/MyProject3/Content/Jugador/BP_GameMode.uasset",
+				"C:/Users/Pc/Documents/GitHub/Panic-at-the-Pits/MyProject3/Content/Jugador/BP_Jugador.uasset",
+				"C:/Users/Pc/Documents/GitHub/Panic-at-the-Pits/MyProject3/Content/Maps/L_Pista.umap",
+				"C:/Users/Pc/Documents/GitHub/Panic-at-the-Pits/MyProject3/Content/menu/UW_MenuDerrota.uasset",
+				"C:/Users/Pc/Documents/GitHub/Panic-at-the-Pits/MyProject3/Content/menu/UW_MenuVictoria.uasset",
+				"C:/Users/Pc/Documents/GitHub/Panic-at-the-Pits/MyProject3/Content/Jugador/Input/IMC_Jugador.uasset",
+				"C:/Users/Pc/Documents/GitHub/Panic-at-the-Pits/MyProject3/Content/Jugador/BP_PlayerController.uasset",
+				"C:/Users/Pc/Documents/GitHub/Panic-at-the-Pits/MyProject3/Content/Blueprints/BP_Wheel_Default.uasset",
+				"C:/Users/Pc/Documents/GitHub/Panic-at-the-Pits/MyProject3/Content/menu/daitonaaaaaaaa1.uasset"
+			]
+		}
+	]
+}
